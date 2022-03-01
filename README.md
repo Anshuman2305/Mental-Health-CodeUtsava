@@ -1,5 +1,5 @@
 
-# Team Da Vinci Code PS5
+# Mental Health - Team Vinci Code
 
 To create an informative AI-based tool that should be able to give alerts and identify cases of mental health issues in children and also track the improvement status in identified cases. It should be able to track mental health issues prevalent in children from birth to the ones which they acquired later in their life for remediation and counselling. The tool should support teacher’s assessment as well as parental and self-assessment.
 
