@@ -16,7 +16,7 @@
             justify-content: center;
     min-width: none;
     height: auto;
-    margin: 5em 4em 1em 4em;
+    margin: 10em 4em 1em 4em;
     border-radius: 2em;
   }
   #res h1 {
@@ -225,5 +225,9 @@
 .win2 .subheading {
   font-size: 1em;
   padding: 0px 20px;
+}
+
+#contact_text {
+  text-align: justify;
 }
 /*# sourceMappingURL=mobile_style.css.map */
