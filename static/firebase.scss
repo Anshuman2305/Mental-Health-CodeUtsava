@@ -1,0 +1,13 @@
+#contact{
+    color: #f1f1f1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    .form-group{
+      .form-control{
+        border-radius: 10em !important;
+        border: none;
+      }
+    }
+  }
